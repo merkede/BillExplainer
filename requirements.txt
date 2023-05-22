@@ -3,4 +3,3 @@ langchain
 openai
 python-dotenv
 PyPDF2
-anthropic
